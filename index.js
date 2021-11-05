@@ -10,4 +10,4 @@ app.get("/", (req, res) => {
 });
 
 // console.log("dari docker " + process.env.NAME);
-app.listen(5000, () => console.log("app jalan di 5000  🚀🚀"));
+app.listen(5000, () => console.log("app jalan di 5000  🚀🚀dsa"));
